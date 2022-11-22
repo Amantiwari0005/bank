@@ -5,7 +5,7 @@ from tkinter import *
 import os
 from PIL import ImageTk, Image
 
-#report
+#reporti
 def rip():
     aman50 = Toplevel(aman)
     aman50.title("Report problem")
